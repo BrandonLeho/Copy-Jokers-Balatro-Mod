@@ -60,6 +60,8 @@ Some Jokers, especially ones with unusual timing, passive effects, destruction e
 
 ## Installation
 
+Go to the [Releases page](../../releases) and download the latest release of the mod.
+
 Install this mod the same way you would install other Steamodded mods.
 
 Place the mod folder in your Steamodded mods directory, then launch the game with Steamodded enabled.
